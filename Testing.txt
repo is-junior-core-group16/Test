@@ -9,3 +9,5 @@ Changes
 
 rm -rf .git
 ^^Haley, this might solve your problem
+
+This was made from my branch
