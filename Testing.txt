@@ -6,3 +6,6 @@ WAT
 This is a test
 
 Changes
+
+rm -rf .git
+^^Haley, this might solve your problem
